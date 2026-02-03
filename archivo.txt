@@ -1,3 +1,5 @@
 Mi color favorito es: Rojo
 
 Mi comida favorita es: Locro
+
+Mi fruta favorita es: Manzana
